@@ -230,3 +230,16 @@ header .logo
          font-size: 2em;
      }
  }
+
+.picture
+{
+postion: absolute;
+display: flex;
+justify-content: center;
+z-index: 1000
+top: 200px;
+left:300px;
+width: 100%;
+hight: 100%;
+align-items: center;
+}
